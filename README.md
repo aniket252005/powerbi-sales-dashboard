@@ -27,25 +27,51 @@ This project presents an interactive Power BI dashboard built using a Superstore
 
 ## 📊 Dashboard Pages
 
-### 1. Overview Dashboard
-<img width="1313" height="738" alt="overview" src="https://github.com/user-attachments/assets/e39fed50-7f5c-4e72-9090-5f526ee01c50" />
-* Displays key KPIs such as Total Sales, Profit, and Orders 
-* Sales distribution by region and category
+---
 
-### 2. Sales Analysis
-<img width="1308" height="736" alt="sales_analysis" src="https://github.com/user-attachments/assets/3ba6ad5a-6651-43a9-997d-42101077ed98" />
-* Sales trends over time using line charts  
-* Category and sub-category analysis
+### 🔹 1. Overview Dashboard
 
-### 3. Product Performance
-<img width="1306" height="733" alt="product_performance" src="https://github.com/user-attachments/assets/976d064c-21ba-4fd8-9d92-413dfe85200c" />
-* Top 10 and Bottom 10 products by sales
-* Profit analysis by product
+![Overview](https://github.com/user-attachments/assets/e39fed50-7f5c-4e72-9090-5f526ee01c50)
 
-### 4. Regional Analysis
-<img width="1310" height="738" alt="regional_analysis" src="https://github.com/user-attachments/assets/80a0a0ab-ab0b-43e7-97a9-7d79c44be88a" />
-* Sales distribution by state (map visualization)
-* Sales by state and profit by region
+**Key Highlights:**
+
+* Displays key KPIs such as **Total Sales, Total Profit, and Total Orders**
+* Shows **sales distribution by region and category**
+
+---
+
+### 🔹 2. Sales Analysis
+
+![Sales Analysis](https://github.com/user-attachments/assets/3ba6ad5a-6651-43a9-997d-42101077ed98)
+
+**Key Highlights:**
+
+* Analyzes **sales trends over time** using line charts
+* Provides **category and sub-category performance insights**
+
+---
+
+### 🔹 3. Product Performance
+
+![Product Performance](https://github.com/user-attachments/assets/976d064c-21ba-4fd8-9d92-413dfe85200c)
+
+**Key Highlights:**
+
+* Identifies **Top 10 and Bottom 10 products** by sales
+* Shows **profit analysis for each product**
+
+---
+
+### 🔹 4. Regional Analysis
+
+![Regional Analysis](https://github.com/user-attachments/assets/80a0a0ab-ab0b-43e7-97a9-7d79c44be88a)
+
+**Key Highlights:**
+
+* Displays **state-wise sales distribution** using map visualization
+* Compares **sales by state and profit by region**
+
+---
 
 ---
 
