@@ -92,6 +92,9 @@ This project presents an interactive Power BI dashboard built using a Superstore
 
 ---
 
-## 📌 Author
+## 👤 Author
 
-Aniket Pandey
+**Aniket Pandey**  
+Aspiring Data Scientist  
+Python | SQL | Data Analysis | Machine Learning
+
